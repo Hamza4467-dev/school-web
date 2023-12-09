@@ -1,0 +1,26 @@
+<app-header></app-header>
+<div class="login-wrapper">
+    <h2 class="text-center">Purchase Account Details</h2>
+    <form class="form-login">
+        <div class="form-floating mb-3">
+            <input type="email" class="form-control" id="floatingInput" placeholder="Username or email address">
+            <label for="floatingInput">Username or email address</label>
+          </div>
+          <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">Password</label>
+          </div>
+          <div class="form-check"><input id="Remember" class="form-check-input" type="checkbox" name="category" value="Remember">
+            <label class="form-check-label" for="Remember">Remember me</label>
+        </div>
+        <div class="form-button">
+            <button class="btn-secondary">
+                Log In
+            </button>
+            <div class="forgot-password">
+                <a href="#" routerLink="/user/lost-password">Lost your password?</a>
+            </div>
+        </div>
+    </form>
+  </div>
+  <app-footer></app-footer>

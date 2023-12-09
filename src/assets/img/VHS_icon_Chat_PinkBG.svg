@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1041.51 1041.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #003e68;
+        stroke-linejoin: round;
+        stroke-width: 14px;
+      }
+
+      .cls-2 {
+        fill: #006daa;
+      }
+
+      .cls-3 {
+        fill: #fae1e7;
+      }
+
+      .cls-4 {
+        fill: #cfdde8;
+      }
+    </style>
+  </defs>
+  <g id="BG">
+    <circle class="cls-3" cx="520.75" cy="520.75" r="520.75"/>
+  </g>
+  <g id="Icons">
+    <g>
+      <path class="cls-2" d="m777.51,609.68v124.49s-106.44-124.49-106.44-124.49h-230.45v-332.15h418.14v332.63s-80.53-1.19-81.25-.48Z"/>
+      <path class="cls-1" d="m264,687.5v124.49l106.44-124.49h230.45v-332.15H182.75v332.63s80.53-1.19,81.25-.48Z"/>
+      <circle class="cls-4" cx="303.32" cy="518.69" r="26.36"/>
+      <circle class="cls-4" cx="391.83" cy="518.69" r="26.36"/>
+      <circle class="cls-4" cx="480.34" cy="518.69" r="26.36"/>
+    </g>
+  </g>
+</svg>
